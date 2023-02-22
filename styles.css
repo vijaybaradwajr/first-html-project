@@ -1,0 +1,28 @@
+h1
+{
+    color: white;
+    font-family:Helvetica;
+}
+h2
+{
+    color: white;
+    font-family:Helvetica;
+}
+hr
+{
+    border-style: dotted none none ;
+    border-width: 2.5px;
+    width: 20%;
+    color:darkgray;
+}
+body
+{
+    font-family: Helvetica;
+    color:aliceblue;
+    background-image: url("https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg");
+
+}
+img
+{
+    border-radius: 50%;
+}
